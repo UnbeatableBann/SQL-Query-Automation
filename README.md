@@ -60,13 +60,13 @@ NL2SQL is a web-based application that allows users to upload a dataset and quer
 ## Screenshots
 Here are some screenshots of the project:
 1. Dashboard
-![Project Screenshot](screenshots/Dashboard.png)
+![Project Screenshot](Screenshots/Dashboard.png)
 
 2. Using Natural Language query to convert into SQL Query
-![Project Screenshot](screenshots/SQLQuery.png)
+![Project Screenshot](Screenshots/SQLQuery.png)
 
 3. Handle Fallback Response
-![Project Screenshot](screenshots/Fallback.png)
+![Project Screenshot](Screenshots/Fallback.png)
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
