@@ -75,5 +75,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 ## Contact
-For queries, reach out at [your-email@example.com].
+For queries, reach out at [shadabjamadar4@gmail.com].
 
